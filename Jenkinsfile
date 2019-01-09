@@ -13,7 +13,7 @@ pipeline {
         }
         stage ('Clone') {
             steps {
-                git branch: 'master', url: "https://github.com/pushpendrad/emsdockerhub/ps://github.com/jfrog/project-examples.git"
+                git branch: 'master', url: "https://github.com/aakankshi/emsdockerhub.git"
             }
         }
 
