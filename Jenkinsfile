@@ -24,7 +24,7 @@ pipeline {
                 rtMavenRun (
                     //tool: MAVEN, // Tool name from Jenkins configuration
                     pom: 'emsdockerhub/pom.xml',
-                    goals: 'clean install compile',
+                    goals: 'clean install',
                     //deployerId: "MAVEN_DEPLOYER",
                     //resolverId: "MAVEN_RESOLVER"
                 )
