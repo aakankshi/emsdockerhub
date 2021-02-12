@@ -20,13 +20,13 @@
 	 	<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-firefox-driver</artifactId>
-			<version>2.42.2</version>
+			<version>2.43.0</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-server</artifactId>
-			<version>2.42.2</version>
+			<version>2.43.0</version>
 		</dependency>
 	<!--           <dependency> <groupId>com.fasterxml.jackson.core</groupId> <artifactId>jackson-core</artifactId> 
 			<version>2.2.1</version> <scope>test</scope> </dependency> <dependency> <groupId>com.fasterxml.jackson.core</groupId> 
@@ -333,7 +333,7 @@
 						<execution>
 							<phase>verify</phase>
 							<goals>
-								<goal></goal>
+								<goal/>
 							</goals>
 						</execution>
 					</executions>
