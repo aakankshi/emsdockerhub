@@ -178,13 +178,13 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-web</artifactId>
-			<version>4.0.6.RELEASE</version>
+			<version>5.2.15.RELEASE</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>4.0.6.RELEASE</version>
+			<version>5.2.15.RELEASE</version>
 		</dependency>
 
 		<dependency>
@@ -333,7 +333,7 @@
 						<execution>
 							<phase>verify</phase>
 							<goals>
-								<goal></goal>
+								<goal/>
 							</goals>
 						</execution>
 					</executions>
