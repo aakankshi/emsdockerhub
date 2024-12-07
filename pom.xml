@@ -184,7 +184,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>4.0.6.RELEASE</version>
+			<version>6.0.0</version>
 		</dependency>
 
 		<dependency>
@@ -333,7 +333,7 @@
 						<execution>
 							<phase>verify</phase>
 							<goals>
-								<goal></goal>
+								<goal/>
 							</goals>
 						</execution>
 					</executions>
